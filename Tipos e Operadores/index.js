@@ -51,10 +51,33 @@ if (a == b) {
 
 //Operador Diferente
 
-const n1 = 1;
+/*const n1 = "1";
 const n2 = 1;
 
 if(n1 != n2) {
+    alert("Verdadeiro");
+} else {
+    alert("Falso");
+}*/
+
+// Menor
+
+// const n3 = 2;
+// const n4 = 2;
+
+// if (n3 <= n4) {
+//     alert("Verdadeiro");
+// } else {
+//     alert("Falso");
+// }
+
+
+// Maior
+
+const n5 = 3;
+const n6 = 2;
+
+if (n5 >= n6) {
     alert("Verdadeiro");
 } else {
     alert("Falso");
